@@ -10,6 +10,7 @@ ReactDOM.render(<App />, document.getElementById('root'))
 
 serviceWorker.unregister()
 
-// 1. 导入全局包(多个位置使用的包)
-// 2. 使用App跟组件
-// 3. 导入公共样式
+//入口文件作用
+// 1.导入全局包
+// 2.使用App根组件
+// 3.导入公共样式

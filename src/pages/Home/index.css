@@ -1,0 +1,9 @@
+.tabbar {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+.home {
+    margin-bottom: 50px;
+}

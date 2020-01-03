@@ -1,0 +1,25 @@
+{
+    "tabbarData": [{
+            "id": 1,
+            "title": "首页",
+            "key": "index",
+            "icon": "icon-ind",
+            "path": "/home"
+        },
+        {
+            "id": 2,
+            "title": "找房",
+            "key": "house",
+            "icon": "icon-findHouse",
+            "path": "/home/house"
+        },
+        {
+            "id": 3,
+            "title": "我的",
+            "key": "profile",
+            "icon": "icon-my",
+            "path": "/home/profile"
+        }
+    ]
+
+}
